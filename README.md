@@ -1,7 +1,7 @@
 
 
 # giphy
-- [GiphyAction] (https://dimz13.github.io/unit-4-game/)
+- [GiphyAction] (https://dimz13.github.io/giphy/)
 
 # README for giphy - Search, display and pause giphy
 ![giphyinaction](/giphy.gif)
